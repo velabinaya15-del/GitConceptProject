@@ -6,6 +6,8 @@ public class GitConcept {
 
 		System.out.println("Everything Happens For A Reason");
 		System.out.println("All is Well");
+		System.out.println("Think Positive");
+		System.out.println("Stay Positive");
 
 	}
 }
